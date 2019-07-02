@@ -1,6 +1,11 @@
 # GHLibraryCleaner
 The LibraryCleaner allows you to remove unwanted text in a scanned library and make it only give you the important information.
 
+Requirements:
+Python 3 or the latest version of Python : https://www.python.org/
+
+
+
 Instructions:
 1. Scan a library
 2. Copy it's output to 'input.txt'
