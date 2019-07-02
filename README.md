@@ -13,6 +13,8 @@ Instructions:
 4. A new file will appear called 'output.txt', there will be your cleaned version
 5. ???
 6. Profit
+-----------------------------
+In-game:
 
 If you need a script to scan a Library then you may use this:
 https://pastebin.com/CF6U4WT4
